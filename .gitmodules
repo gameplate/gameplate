@@ -1,6 +1,3 @@
-[submodule "ui"]
-	path = ui
-	url = git@github.com:gameplate/ui
 [submodule "backend"]
 	path = backend
 	url = git@github.com:gameplate/backend
